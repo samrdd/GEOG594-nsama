@@ -8,4 +8,4 @@ You can download the syllabus of GEOG594 from [here](https://sdsu.instructure.co
 
 According to me **Big Data** is a large volume of data which is getting generated through various sources such as social media, day to day transactions etc. Most of this generated day is in unstructured format such as video, audio, text files and sensor data, some data is in semi structured and quasi structured format. Using this data by converting this it from unstructured to structured format we can generate various models which will be helpful in predicting the future of a business, predicting the rate at which the disease is spreading, predicting the occurrence of a disease etc.
 
-![Myimage](https://drive.google.com/file/d/1fZBVkkSOX8TphUNKGIbowh_zpGpFde1B/view.jpeg)
+
