@@ -1,6 +1,6 @@
 ## NAVEEN REDDY SAMA
 
-### GEOG594 course
+### Big Data Analytics(GEOG594) course
 You can find the course link of GEOG594 [here](https://sdsu.instructure.com/courses/113151).
 You can download the syllabus of GEOG594 from [here](https://sdsu.instructure.com/courses/113151/files/6828979?module_item_id=2295631).
 
